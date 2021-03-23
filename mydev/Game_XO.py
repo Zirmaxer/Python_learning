@@ -1,0 +1,6 @@
+print ('   1 2 3 ')
+print ('a |x|o|x|')
+print ('b |x|o|x|')
+print ('c |x|o|x|')
+#print ('-------')
+print ('   1 2 3 \na |x|o|x|\nb |x|o|x|\nc |x|o|x|')
