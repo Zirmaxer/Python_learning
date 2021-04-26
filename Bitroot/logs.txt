@@ -1,3 +1,3 @@
-111111111111sdfdsdfsdfdsdf
-sdfdsdf
-sdfdsdf
+1. File: 'test.txt' Mode: 'w' Error: None
+2. File: 'test.txt' Mode: 'r' Error: None
+3. File: 'test.txt' Mode: 'r' Error: <class 'TypeError'>
